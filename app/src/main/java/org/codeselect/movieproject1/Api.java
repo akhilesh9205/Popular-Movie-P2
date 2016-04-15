@@ -8,7 +8,7 @@ import android.net.Uri;
 public class Api {
 
     public static final String API_KEY = "YOUR_API_KEY";
-    
+
     public static final String BASE_URL = "http://api.themoviedb.org/3";
     public static final String MOVIE_LIST_URL = BASE_URL + "/discover/movie?";
     public static final String IMAGE_BASE_URL = "http://image.tmdb.org/t/p/w185";
